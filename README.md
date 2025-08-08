@@ -1,6 +1,6 @@
 # 📱 Uni2 — Social Media Frontend
 
-**Uni2** es el frontend de una aplicación web de tipo red social construida con **Next.js** y autenticación mediante **Clerk**.
+**Uni2** es el frontend de una aplicación web de tipo red social construida con **React.js** y autenticación mediante **Clerk**.
 Permite a los usuarios registrarse, iniciar sesión y acceder a la interfaz de la app.
 Todo el manejo de sesiones y autenticación se realiza a través de **Clerk**.
 
