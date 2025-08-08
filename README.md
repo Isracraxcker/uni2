@@ -142,7 +142,5 @@ Para producción, conecta un dominio propio en Vercel y configúralo en Clerk �
 
 MIT License — Puedes usar y modificar libremente.
 
-```
-
 ---
 
