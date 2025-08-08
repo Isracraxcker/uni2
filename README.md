@@ -1,8 +1,6 @@
 
 
 ---
-
-````markdown
 # 📱 Uni2 — Social Media Frontend
 
 **Uni2** es una aplicación web tipo red social construida con **Vite**, **React** y autenticación mediante **Clerk**.  
