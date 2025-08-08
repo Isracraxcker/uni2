@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./pic.svg";
 import sample_cover from "./sample_cover.jpg";
 import sample_profile from "./icon.png";
 import bgImage from "./bgImage.png";
