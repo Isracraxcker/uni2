@@ -1,5 +1,4 @@
-Perfecto ✅
-Te dejo el **README.md** adaptado para **Uni2** usando **Vite + React + JavaScript** con autenticación de **Clerk**.
+
 
 ---
 
